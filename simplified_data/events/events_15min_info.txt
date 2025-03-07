@@ -1,0 +1,50 @@
+EVENTS DATA INFORMATION - 15MIN STAGE
+==================================================
+
+Records: 769
+Time range: 2021-01-01 00:00:00 to 2021-01-09 00:00:00
+Most common time difference: 0 days 00:15:00
+
+Time difference distribution:
+- 0 days 00:15:00: 768 occurrences (-0.1%)
+
+Columns (19):
+--------------------------------------------------
+- FractionDate (float64): 99.2% missing
+  Range: 2021.0027 to 2021.0219, Mean: 2021.01
+- Actor1CountryCode (object): 0.0% missing
+  Values: 0, CAN, KWT, INDIND, JPNUSA
+- Actor2CountryCode (object): 0.0% missing
+  Values: 0, CAN, KWT, IND
+- GoldsteinScale (float64): 99.2% missing
+  Range: -6.5 to 3.45, Mean: 0.54
+- AvgTone (float64): 0.0% missing
+  Range: -4.36893203883495 to 4.744771098434987, Mean: 0.13
+- Actor1Geo_CountryCode (object): 0.0% missing
+  Values: 0, IN, CA, INININKUIN, ININININININ
+- Actor1Geo_Lat (float64): 99.2% missing
+  Range: 28.64446666666667 to 49.25, Mean: 32.21
+- Actor1Geo_Long (float64): 99.2% missing
+  Range: -123.133 to 77.2167, Mean: 28.46
+- Actor2Geo_CountryCode (object): 0.0% missing
+  Values: 0, CACA, KUIN, ININININ, INUS
+- Actor2Geo_Lat (float64): 99.3% missing
+  Range: 28.6667 to 49.25, Mean: 32.98
+- Actor2Geo_Long (float64): 99.3% missing
+  Range: -123.133 to 77.2167, Mean: 16.94
+- ActionGeo_CountryCode (object): 0.0% missing
+  Values: 0, IN, ININ, ININININININ, ININININ
+- ActionGeo_Lat (float64): 99.2% missing
+  Range: 28.6 to 28.6667, Mean: 28.65
+- ActionGeo_Long (float64): 99.2% missing
+  Range: 77.2 to 77.2167, Mean: 77.21
+- Protests_Count (float64): 0.0% missing
+  Range: 0.0 to 2.0, Mean: 0.00
+- Demonstrations_Count (float64): 0.0% missing
+  Range: 0.0 to 0.0, Mean: 0.00
+- Political_Events_Count (float64): 0.0% missing
+  Range: 0.0 to 4.0, Mean: 0.02
+- Conflicts_Count (float64): 0.0% missing
+  Range: 0.0 to 0.0, Mean: 0.00
+- Gatherings_Count (float64): 0.0% missing
+  Range: 0.0 to 0.0, Mean: 0.00

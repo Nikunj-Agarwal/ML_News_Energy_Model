@@ -1,0 +1,43 @@
+GKG DATA INFORMATION - RAW STAGE
+==================================================
+
+Records: 78
+Time range: 2021-01-01 23:45:00 to 2021-01-09 23:45:00
+Most common time difference: 0 days 00:00:00
+
+Time difference distribution:
+- 0 days 00:00:00: 69 occurrences (-11.5%)
+- 1 days 00:00:00: 8 occurrences (-89.7%)
+
+Columns (26):
+--------------------------------------------------
+- GKGRECORDID (object): 0.0% missing
+- SourceCollectionIdentifier (int64): 0.0% missing
+  Range: 1 to 1, Mean: 1.00
+- SourceCommonName (object): 0.0% missing
+- DocumentIdentifier (object): 0.0% missing
+- Counts (object): 62.8% missing
+- V2Counts (object): 62.8% missing
+- Themes (object): 3.8% missing
+- V2Themes (object): 3.8% missing
+- Locations (object): 0.0% missing
+- V2Locations (object): 0.0% missing
+- Persons (object): 15.4% missing
+- V2Persons (object): 15.4% missing
+- Organizations (object): 9.0% missing
+- V2Organizations (object): 12.8% missing
+- V2Tone (object): 0.0% missing
+- Dates (object): 25.6% missing
+- GCAM (object): 0.0% missing
+- SharingImage (object): 15.4% missing
+- RelatedImages (object): 93.6% missing
+  Values: nan, https://im-media.voltron.voanews.com/Drupal/01live-166/styles/sourced_737px_wide/s3/2021-01/2021-01-02T044436Z_1198724468_RC2GZK9LZLTJ_RTRMADP_3_HEALTH-CORONAVIRUS-CHINA-WUHAN.JPG?itok=sRekZn2J, https://cdn.siasat.com/wp-content/themes/jannah/assets/images/googlenews.svg, https://images.livemint.com/img/2021/01/09/960x540/PTI01_09_2021_000109A_1610214008538_1610214033634.jpg;https://images.livemint.com/img/2021/01/09/960x540/AFP_8Y74PF_1609954642837_1609954664420_1610212825879.jpg;https://images.livemint.com/img/2021/01/09/960x540/PTI27-12-2020_000081A_1610213456141_1610213472406.jpg
+- SocialImageEmbeds (object): 100.0% missing
+  Values: nan
+- SocialVideoEmbeds (object): 34.6% missing
+- Quotations (object): 71.8% missing
+- AllNames (object): 0.0% missing
+- Amounts (object): 12.8% missing
+- TranslationInfo (float64): 100.0% missing
+  Range: nan to nan, Mean: nan
+- Extras (object): 0.0% missing
