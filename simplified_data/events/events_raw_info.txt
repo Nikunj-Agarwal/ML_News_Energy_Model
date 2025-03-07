@@ -1,0 +1,132 @@
+EVENTS DATA INFORMATION - RAW STAGE
+==================================================
+
+Records: 23
+Time range: 2021-01-01 23:45:00 to 2021-01-08 23:45:00
+Most common time difference: 0 days 00:00:00
+
+Time difference distribution:
+- 0 days 00:00:00: 17 occurrences (-26.1%)
+- 1 days 00:00:00: 4 occurrences (-82.6%)
+- 3 days 00:00:00: 1 occurrences (-95.7%)
+
+Columns (62):
+--------------------------------------------------
+- GLOBALEVENTID (int64): 0.0% missing
+  Range: 962321338 to 963425253, Mean: 963007204.43
+- SQLDATE (int64): 0.0% missing
+  Range: 20210101 to 20210108, Mean: 20210105.70
+- MonthYear (int64): 0.0% missing
+  Range: 202101 to 202101, Mean: 202101.00
+- Year (int64): 0.0% missing
+  Range: 2021 to 2021, Mean: 2021.00
+- FractionDate (float64): 0.0% missing
+  Range: 2021.0027 to 2021.0219, Mean: 2021.02
+- Actor1Code (object): 13.0% missing
+- Actor1Name (object): 13.0% missing
+- Actor1CountryCode (object): 69.6% missing
+  Values: nan, CAN, KWT, IND, JPN
+- Actor1KnownGroupCode (object): 100.0% missing
+  Values: nan
+- Actor1EthnicCode (object): 91.3% missing
+  Values: nan, pan
+- Actor1Religion1Code (object): 100.0% missing
+  Values: nan
+- Actor1Religion2Code (object): 100.0% missing
+  Values: nan
+- Actor1Type1Code (object): 52.2% missing
+  Values: GOV, nan, AGR, LEG, BUS
+- Actor1Type2Code (object): 73.9% missing
+  Values: HLH, nan, BUS, GOV
+- Actor1Type3Code (object): 100.0% missing
+  Values: nan
+- Actor2Code (object): 43.5% missing
+  Values: nan, CAN, GOV, KWT, HIN
+- Actor2Name (object): 43.5% missing
+  Values: nan, CANADA, CONSULATE, KUWAIT, PRIME MINISTER
+- Actor2CountryCode (object): 87.0% missing
+  Values: nan, CAN, KWT, IND
+- Actor2KnownGroupCode (object): 100.0% missing
+  Values: nan
+- Actor2EthnicCode (object): 100.0% missing
+  Values: nan
+- Actor2Religion1Code (object): 82.6% missing
+  Values: nan, HIN
+- Actor2Religion2Code (object): 100.0% missing
+  Values: nan
+- Actor2Type1Code (object): 73.9% missing
+  Values: nan, GOV, CVL, MED, EDU
+- Actor2Type2Code (object): 100.0% missing
+  Values: nan
+- Actor2Type3Code (object): 100.0% missing
+  Values: nan
+- IsRootEvent (int64): 0.0% missing
+  Range: 0 to 1, Mean: 0.43
+- EventCode (object): 0.0% missing
+- CAMEOCodeDescription (object): 0.0% missing
+- EventBaseCode (object): 0.0% missing
+- EventRootCode (object): 0.0% missing
+  Values: 02, 14, 04, 13, 01
+- QuadClass (int64): 0.0% missing
+  Range: 1 to 3, Mean: 1.48
+- GoldsteinScale (float64): 0.0% missing
+  Range: -6.5 to 6.0, Mean: 0.81
+- NumMentions (int64): 0.0% missing
+  Range: 1 to 10, Mean: 5.83
+- NumSources (int64): 0.0% missing
+  Range: 1 to 1, Mean: 1.00
+- NumArticles (int64): 0.0% missing
+  Range: 1 to 10, Mean: 5.83
+- AvgTone (float64): 0.0% missing
+  Range: -4.36893203883495 to 7.44186046511628, Mean: 1.11
+- Actor1Geo_Type (int64): 0.0% missing
+  Range: 0 to 4, Mean: 3.26
+- Actor1Geo_FullName (object): 13.0% missing
+  Values: Delhi, Delhi, India, nan, Vancouver, British Columbia, Canada, New Delhi, Delhi, India, Kuwait
+- Actor1Geo_CountryCode (object): 13.0% missing
+  Values: IN, nan, CA, KU, US
+- Actor1Geo_ADM1Code (object): 13.0% missing
+  Values: IN07, nan, CA02, KU, USTX
+- Actor1Geo_ADM2Code (object): 17.4% missing
+  Values: 17911, nan, 12552, TX201
+- Actor1Geo_Lat (float64): 13.0% missing
+  Range: 28.6 to 49.25, Mean: 29.83
+- Actor1Geo_Long (float64): 13.0% missing
+  Range: -123.133 to 77.2167, Mean: 48.46
+- Actor1Geo_FeatureID (object): 13.0% missing
+  Values: -2094230, nan, -575268, -2106102, KU
+- Actor2Geo_Type (int64): 0.0% missing
+  Range: 0 to 4, Mean: 2.09
+- Actor2Geo_FullName (object): 43.5% missing
+  Values: nan, Vancouver, British Columbia, Canada, Kuwait, Delhi, Delhi, India, Houston, Texas, United States
+- Actor2Geo_CountryCode (object): 43.5% missing
+  Values: nan, CA, KU, IN, US
+- Actor2Geo_ADM1Code (object): 43.5% missing
+  Values: nan, CA02, KU, IN07, USTX
+- Actor2Geo_ADM2Code (object): 47.8% missing
+  Values: nan, 12552, 17911, TX201
+- Actor2Geo_Lat (float64): 43.5% missing
+  Range: 28.6667 to 49.25, Mean: 31.98
+- Actor2Geo_Long (float64): 43.5% missing
+  Range: -123.133 to 77.2167, Mean: 30.85
+- Actor2Geo_FeatureID (object): 43.5% missing
+  Values: nan, -575268, KU, -2094230, 1380948
+- ActionGeo_Type (int64): 0.0% missing
+  Range: 4 to 4, Mean: 4.00
+- ActionGeo_FullName (object): 0.0% missing
+  Values: Delhi, Delhi, India, New Delhi, Delhi, India
+- ActionGeo_CountryCode (object): 0.0% missing
+  Values: IN
+- ActionGeo_ADM1Code (object): 0.0% missing
+  Values: IN07
+- ActionGeo_ADM2Code (object): 0.0% missing
+  Values: 17911
+- ActionGeo_Lat (float64): 0.0% missing
+  Range: 28.6 to 28.6667, Mean: 28.65
+- ActionGeo_Long (float64): 0.0% missing
+  Range: 77.2 to 77.2167, Mean: 77.21
+- ActionGeo_FeatureID (object): 0.0% missing
+  Values: -2094230, -2106102
+- DATEADDED (int64): 0.0% missing
+  Range: 20210101234500 to 20210108234500, Mean: 20210105930152.18
+- SOURCEURL (object): 0.0% missing

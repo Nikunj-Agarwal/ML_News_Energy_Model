@@ -1,0 +1,42 @@
+WEATHER_ENERGY DATA INFORMATION - RAW STAGE
+==================================================
+
+Records: 393440
+Time range: 2021-01-01 00:30:00 to 2024-12-12 00:30:00
+Most common time difference: 0 days 00:05:00
+
+Time difference distribution:
+- 0 days 00:05:00: 392289 occurrences (-0.3%)
+- 0 days 00:10:00: 272 occurrences (-99.9%)
+- 0 days 00:15:00: 267 occurrences (-99.9%)
+
+Columns (14):
+--------------------------------------------------
+- Unnamed: 0 (int64): 0.0% missing
+  Range: 0 to 393439, Mean: 196719.50
+- Power demand (float64): 0.0% missing
+  Range: 1302.08 to 8631.53, Mean: 3960.74
+- temp (float64): 0.0% missing
+  Range: 4.0 to 46.4, Mean: 25.53
+- dwpt (float64): 0.0% missing
+  Range: -8.6 to 30.3, Mean: 16.34
+- rhum (float64): 0.0% missing
+  Range: 5.0 to 100.0, Mean: 63.44
+- wdir (float64): 0.1% missing
+  Range: 0.0 to 360.0, Mean: 163.78
+- wspd (float64): 0.0% missing
+  Range: 0.0 to 63.0, Mean: 7.85
+- pres (float64): 0.0% missing
+  Range: 989.6 to 1027.0, Mean: 1008.93
+- year (int64): 0.0% missing
+  Range: 2021 to 2024, Mean: 2022.49
+- month (int64): 0.0% missing
+  Range: 1 to 12, Mean: 6.45
+- day (int64): 0.0% missing
+  Range: 1 to 31, Mean: 15.75
+- hour (int64): 0.0% missing
+  Range: 0 to 23, Mean: 11.18
+- minute (int64): 0.0% missing
+  Range: 0 to 55, Mean: 27.35
+- moving_avg_3 (float64): 0.0% missing
+  Range: 1307.6800000000042 to 8598.126666666672, Mean: 3960.75
